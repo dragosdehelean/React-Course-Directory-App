@@ -12,7 +12,7 @@ import NotFound from './NotFound';
 import Featured from './Featured';
 
 const App = () => (
-  <BrowserRouter basename="/React-Course-Directory-App">
+  <BrowserRouter basename="/course-directory">
     <div className="container">
       <Header />
       <Switch>
